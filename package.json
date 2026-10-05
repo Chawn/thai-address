@@ -1,0 +1,8 @@
+{
+  "name": "thai-address-monorepo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-data.mjs"
+  }
+}

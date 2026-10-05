@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+# Dart
+.dart_tool/
+build/
+pubspec.lock
+# Go
+*.test
+coverage.*
+# Data pipeline scratch
+data/raw/
+.DS_Store
+.idea/
+.vscode/
